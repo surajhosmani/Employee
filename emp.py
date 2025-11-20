@@ -1,0 +1,10 @@
+emp_id = input("Enter Employee ID: ")
+emp_name = input("Enter Employee Name: ")
+emp_salary = input("Enter Employee Salary: ")
+emp_exp = input("Enter Employee Experience (in years): ")
+
+print("\n--- Employee Details ---")
+print("ID:", emp_id)
+print("Name:", emp_name)
+print("Salary:", emp_salary)
+print("Experience:", emp_exp, "years")
